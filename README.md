@@ -1,5 +1,6 @@
 # LottoApp
 안드로이드 스튜디오로 개발한 로또앱<br>
+![image](https://user-images.githubusercontent.com/88234731/196204702-a1dc4407-c71a-4496-b178-9c377380eeec.png)
 ## 실행화면
 ### 앱을 처음으로 켰을때
 ![Screenshot_20220721_153007](https://user-images.githubusercontent.com/88234731/180144857-0b4587e4-1f6d-4e6e-98ce-ded3f0a0b48d.png)
